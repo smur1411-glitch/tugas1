@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">TOKO SEMBAKO YOGA</string>
+    <string name="title_activity_main">TOKO SEMBAKO YOGA</string>
+    <string name="package_name">com.yoga.sembako</string>
+    <string name="custom_url_scheme">com.yoga.sembako</string>
+</resources>

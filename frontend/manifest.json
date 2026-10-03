@@ -1,0 +1,19 @@
+{
+  "name": "TOKO SEMBAKO YOGA",
+  "short_name": "Yoga Sembako",
+  "description": "Aplikasi kasir dan manajemen stok warung sembako Pak Yoga",
+  "start_url": "./TOKO SEMBAKO YOGA.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f8f4",
+  "theme_color": "#059669",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
